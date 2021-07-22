@@ -189,4 +189,4 @@ url = "projects/"
 [[languages.pt-br.menu.main]]
 name = "Contato"
 weight = 5
-url = "conta/"
+url = "Contact/"
