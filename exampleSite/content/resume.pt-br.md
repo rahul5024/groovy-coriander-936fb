@@ -1,6 +1,6 @@
 +++
-title = "Contato"
-slug = "contact"
+title = "reanudar"
+slug = "resume"
 +++
 
 Me siga em @joaoninguem.
