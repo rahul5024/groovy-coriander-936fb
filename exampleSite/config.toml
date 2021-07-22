@@ -121,7 +121,7 @@ url = "https://twitter.com/vomph/"
 name = "LinkedIn"
 icon = "fa fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://www.linkedin.com/in/rahulsocial/"
 
 [[params.social]]
 name = "Medium"
