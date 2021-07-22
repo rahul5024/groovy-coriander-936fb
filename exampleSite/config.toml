@@ -109,7 +109,7 @@ url = "https://github.com/rahul5024/"
 name = "Instagram"
 icon = "fa fa-Instagram"
 weight = 2
-url = "https://gitlab.com/johndoe/"
+url = "https://g.com/johndoe/"
 
 [[params.social]]
 name = "Twitter"
