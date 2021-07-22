@@ -125,7 +125,7 @@ url = "https://www.linkedin.com/in/rahulsocial/"
 
 [[params.social]]
 name = "Facebook"
-icon = "fa fa-Facebook"
+icon = "fa fa-facebook"
 weight = 5
 url = "https://fb.com/vomphy"
 
