@@ -3,4 +3,4 @@ title = "Resume"
 slug = "resume"
 +++
 
-Follow me, @.
+Follow me, @vomph.
