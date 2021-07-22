@@ -115,7 +115,7 @@ url = "https://gitlab.com/johndoe/"
 name = "Twitter"
 icon = "fa fa-twitter"
 weight = 3
-url = "https://twitter.com/johndoe/"
+url = "https://twitter.com/vomph/"
 
 [[params.social]]
 name = "LinkedIn"
