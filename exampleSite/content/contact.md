@@ -1,6 +1,6 @@
 +++
 title = "Resume"
-slug = "contact"
+slug = "resume"
 +++
 
 Follow me, @johndoe.
