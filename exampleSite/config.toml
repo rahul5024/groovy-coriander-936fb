@@ -133,7 +133,7 @@ url = "https://fb.com/"
 name = "RSS"
 icon = "fa fa-rss"
 weight = 6
-url = "https://myhugosite.com/"
+url = "https://"
 rel = "alternate"
 type = "application/rss+xml"
 
