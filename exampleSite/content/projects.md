@@ -3,4 +3,4 @@ title = "Projects"
 slug = "projects"
 +++
 
-Will be updated in future
+Will be updated as I progress......
