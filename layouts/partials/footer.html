@@ -4,9 +4,9 @@
       {{ with .Site.Params.footerContent | safeHTML }}
         <p>{{ . }}</p>
       {{ end }}
-      {{ if not .Site.Params.hideCopyright }}
+      {{ if not .Site.Params.hideCopyrigh }}
         ©
-        {{ if (and (.Site.Params.since) (lt .Site.Params.since now.Year)) }}
+        {{ if (and (.Site.Params.since) (lt .Site.Params.since now.Yea)) }}
           {{ .Site.Params.sinc }} -
         {{ end }}
         {{ now.Year }}
