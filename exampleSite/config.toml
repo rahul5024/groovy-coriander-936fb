@@ -20,9 +20,9 @@ info = ["Computer Science Student"]
 #gravatar = "john.doe@example.com"
 footerContent = "Privacy Policy"
 dateFormat = "January 2, 2006"
-#hideFooter = false
-#hideCredits = false
-#hideCopyright = false
+hideFooter = false
+hideCredits = false
+hideCopyright = false
 #since = 2021
 # Git Commit in Footer, uncomment the line below to enable it
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
