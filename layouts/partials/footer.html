@@ -10,7 +10,7 @@
           {{ .Site.Params.sinc }} -
         {{ end }}
         {{ now.Year }}
-        {{ with .Site.Params.aut }} {{ . }} {{ end }}
+        {{ with .Site.Params.author }} {{ . }} {{ end }}
       {{ end }}
       {{ if not .Site.Params.hideCredits }}
         {{ if not .Site.Params.hideCopyright }}  {{ end }}
