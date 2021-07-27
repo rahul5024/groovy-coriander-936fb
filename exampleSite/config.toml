@@ -113,7 +113,7 @@ url = "mailto:getrahul@protonmail.com/"
 
 [[params.social]]
 name = "Twitter"
-icon = "fa fa-twitter-square"
+icon = "fa fa-twitter"
 weight = 4
 url = "https://twitter.com/vomph/"
 
