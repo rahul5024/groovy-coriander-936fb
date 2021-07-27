@@ -10,10 +10,10 @@
           {{ .Site.Params.since }} -
         {{ end }}
         {{ now.Year }}
-        {{ with .Site.Params.author }} {{ . }} {{ end }}
+        {{ with .Site.Params.author }} {{  }} {{ end }}
       {{ end }}
       {{ if not .Site.Params.hideCredits }}
-        {{ if not .Site.Params.hideCopyright }} · {{ end }}
+        {{ if not .Site.Params.hideCopyright }}  {{ end }}
         {{ i18n "" }} <a href="https://gohugo.io/"></a>  <a href="https://github.com/luizdepra/hugo-coder/"></a>.
       {{ end }}
       {{ if .Site.Params.commit }}
