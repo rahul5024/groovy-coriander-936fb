@@ -5,7 +5,7 @@
         <p>{{ . }}</p>
       {{ end }}
       {{ if not .Site.Params.hideCopyright }}
-        ©
+        
         {{ if (and (.Site.Params.since) (lt .Site.Params.since now.Year)) }}
           {{ .Site.Params.sinc }} -
         {{ end }}
