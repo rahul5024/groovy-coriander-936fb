@@ -21,7 +21,7 @@ info = ["Computer Science Student"]
 footerContent = "Privacy Policy"
 dateFormat = "January 2, 2006"
 hideFooter = false
-hideCredits = false
+#hideCredits = false
 hideCopyright = false
 #since = 2021
 # Git Commit in Footer, uncomment the line below to enable it
