@@ -6,7 +6,7 @@
       {{ end }}
       {{ if not .Site.Params.hideCopyrigh }}
         ©
-        {{ if (and (.Site.Params.since) (lt .Site.Params.since now.Yea)) }}
+        {{ if (and (.Site.Params.since) (lt .Site.Params.since now.Year)) }}
           {{ .Site.Params.sinc }} -
         {{ end }}
         {{ now.Year }}
