@@ -133,7 +133,7 @@ url = ""
 name = "RSS"
 icon = "fa fa-rss"
 weight = 6
-url = "https://"
+url = ""
 rel = "alternate"
 type = "application/rss+xml"
 
