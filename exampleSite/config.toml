@@ -12,7 +12,7 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "Hi I'm Rahul!"
+author = "Hi, I'm Rahul!"
 description = "Rahul's personal website"
 keywords = "blog,developer,personal"
 info = ["A software developer with an B.Tech in Computer Science"]
