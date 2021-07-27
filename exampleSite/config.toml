@@ -133,7 +133,7 @@ url = ""
 name = "RSS"
 icon = "https://img.icons8.com/ios/250/000000/twitter.png"
 weight = 6
-url = ""
+url = "https://www.linkedin.com/in/rahulsocial/"
 rel = "alternate"
 type = "application/rss+xml"
 
