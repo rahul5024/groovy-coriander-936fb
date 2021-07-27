@@ -109,7 +109,7 @@ url = "https://github.com/rahul5024/"
 name = "Email"
 icon = "fa fa-email"
 weight = 2
-url = "https://mailto:getrahul@protonmail.com/"
+url = "https://www.getrahul@protonmail.com/"
 
 [[params.social]]
 name = "Twitter"
