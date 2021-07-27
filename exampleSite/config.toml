@@ -131,7 +131,7 @@ url = ""
 
 [[params.social]]
 name = "RSS"
-icon = "fa fa-rss"
+icon = "https://img.icons8.com/ios/250/000000/twitter.png"
 weight = 6
 url = ""
 rel = "alternate"
