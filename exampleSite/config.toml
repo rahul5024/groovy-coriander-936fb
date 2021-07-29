@@ -158,7 +158,7 @@ languageName = ":brazil:"
 title = "João Ninguém"
 
 [languages.pt-br.params]
-author = "João Ninguém"
+author = "Rahul"
 info = "Full Stack DevOps e Mágico"
 description = "Sítio pessoal de João Ninguém"
 keywords = "blog,desenvolvedor,pessoal"
