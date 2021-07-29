@@ -4,7 +4,7 @@ title: Productive Tools
 
 
 - Canva
-- Within this partial reference t(https://katex.org/docs/autorender.html) or host these scripts locally.
+- autorender.html) or host these scripts locally.
 - Include the partial in your templates like so:
 
 ```bash
