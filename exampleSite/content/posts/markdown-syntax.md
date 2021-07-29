@@ -3,6 +3,7 @@
 title = "Newsletters"
 
 - Finshots
+- Mailbrew
 - 
 
 
