@@ -3,8 +3,8 @@ title: Productive Tools
 ---
 
 
-- Create a partial under `/layouts/partials/math.html`
-- Within this partial reference the [Auto-render Extension](https://katex.org/docs/autorender.html) or host these scripts locally.
+- Canva
+- Within this partial reference t(https://katex.org/docs/autorender.html) or host these scripts locally.
 - Include the partial in your templates like so:
 
 ```bash
