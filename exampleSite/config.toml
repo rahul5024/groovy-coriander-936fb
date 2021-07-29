@@ -159,7 +159,7 @@ title = "João Ninguém"
 
 [languages.pt-br.params]
 author = "Rahul"
-info = ""
+info = "A Computer Science Student at Sharda University"
 description = "Sítio pessoal de João Ninguém"
 keywords = "blog,desenvolvedor,pessoal"
 footerContent = "Coloque algum texto aqui."
