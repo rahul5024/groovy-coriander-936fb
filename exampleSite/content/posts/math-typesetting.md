@@ -1,7 +1,5 @@
 ---
-title: Math Typesetting
-description: A brief guide to setup KaTeX
-math: true
+title: Productive Tools
 ---
 
 Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.
