@@ -4,7 +4,7 @@ title: Productive Tools
 
 
 - Canva
-- autorender.html) or host these scripts locally.
+- Notion
 - Include the partial in your templates like so:
 
 ```bash
