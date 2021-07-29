@@ -2,5 +2,5 @@
 title: Productive Tools
 
 - Canva
-- Notion
-- Readsomethinggreat
+- Notion.so
+- Readsomethinggreat.com
