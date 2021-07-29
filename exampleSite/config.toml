@@ -107,7 +107,7 @@ url = "https://github.com/rahul5024/"
 
 [[params.social]]
 name = "Email"
-icon = "fa fa-envelope"
+icon = "fa fa-envelope-o"
 weight = 3
 url = "mailto:getrahul@protonmail.com/"
 
