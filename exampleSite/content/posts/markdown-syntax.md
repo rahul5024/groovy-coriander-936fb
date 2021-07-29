@@ -1,6 +1,6 @@
 +++
 author = "Hugo Authors"
-title = "Markdown Syntax Guides"
+title = "Productive Tools"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = [
     "markdown",
