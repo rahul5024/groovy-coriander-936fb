@@ -1,9 +1,8 @@
 +++
 
-title = "Productive Tools"
+title = "Newsletters"
 
-Canva
-
-Notion
+- Finshots
+- 
 
 
