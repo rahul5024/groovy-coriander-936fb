@@ -159,7 +159,9 @@ title = "João Ninguém"
 
 [languages.pt-br.params]
 author = "Rahul"
-info = "A Computer Science Student at Sharda University"
+info = " University
+
+Un estudiante de informática en la Universidad de Sharda"
 description = "Sítio pessoal de João Ninguém"
 keywords = "blog,desenvolvedor,pessoal"
 footerContent = "Coloque algum texto aqui."
