@@ -5,8 +5,7 @@ title: Productive Tools
 
 - Canva
 - Notion
-- Include the partial in your templates like so:
-
+- 
 ```bash
 {{ if or .Params.math .Site.Params.math }}
 {{ partial "math.html" . }}
