@@ -6,4 +6,4 @@ title: Productive Tools
 - Readsomethinggreat.com
 - 10minutemail.net
 - Mailbrew
-- whats
+- whats.new/shortcut
